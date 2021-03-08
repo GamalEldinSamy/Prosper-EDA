@@ -1,0 +1,2 @@
+# Prosper-EDA
+Prosper is a peer-to-peer (P2P) lending platform. Investors on the site can invest as little as $25 in personal loans to other people. All personal loans issued on the site are unsecured personal loans with fixed interest rates.  Throughout this project I try to perform Exploratory Data Analysis and visualize the main insights regarding some questions, mainly:  What was the reason behind the company reconstruction in 2009? What affects the borrower’s APR or interest rate?
